@@ -36,6 +36,10 @@ CHATBOT/
 ```
 
 ---
+## 📸 Screenshots
+
+![Home](screenshot.png)
+![Chat](chat.png)
 
 ## ⚙️ Installation & Setup
 
